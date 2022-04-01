@@ -1,0 +1,10 @@
+nav{
+    margin: 30px 0;
+    margin-bottom: 100px;
+}
+.nav{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 0 15px;
+}
